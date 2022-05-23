@@ -1,7 +1,7 @@
 <?php
 /**
  * Template Name: Minuta para cliente a vista
- * Version: 0.1
+ * Version: 0.2
  * Description: Modelo básico de minuta para cliente com pagamento a vista
  * Author: Tiago Cordeiro
  * Author URI: https://www.mulhergorila.com
@@ -43,7 +43,7 @@ if ( ! class_exists( 'GFForms' ) ) {
 
 <p>Pelo presente instrumento particular, de um lado,</p>
 
-<p style="text-align: justify;"><strong>XK-TRON COMERCIO DE PECAS E ACESSORIOS ELETRONICOS LTDA</strong>, pessoa Jurídica Brasileira de Direito Privado, inscrita no CNPJ/MF sob o nº 18.966.170/0001-90, Inscrição Estadual sob o nº 626.528.285.111, com domicílio em Santo André, Estado de São Paulo, onde tem sede na Rua Viena nº 150, Bairro Vila Metalurgica, CEP 09220-700, neste ato denominada como <strong>"ZUMAQ"</strong>, doravante tratada simplesmente de <strong>"VENDEDORA"</strong></p>
+<p style="text-align: justify;"><strong>XK-TRON COMERCIO DE PECAS E ACESSORIOS ELETRONICOS EIRELI</strong>, pessoa Jurídica Brasileira de Direito Privado, inscrita no CNPJ/MF sob o nº 18.966.170/0001-90, Inscrição Estadual sob o nº 626.528.285.111, com domicílio em Santo André, Estado de São Paulo, onde tem sede na Rua Viena nº 150, Bairro Vila Metalurgica, CEP 09220-700, neste ato denominada como <strong>"ZUMAQ"</strong>, doravante tratada simplesmente de <strong>"VENDEDORA"</strong></p>
 
 <p>e, de outro,</p>
 
