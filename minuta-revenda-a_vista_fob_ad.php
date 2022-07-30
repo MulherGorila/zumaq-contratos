@@ -209,7 +209,7 @@ Nome do Representante: {Representante Cliente:7}</span></p>
 <p style="text-align: justify;">&nbsp;</p>
 
 <p style="text-align: justify;"><span style="font-weight: 400;"><strong>VENDEDORA</strong></span></p>
-<img style="width: 100px;" src="https://contratos.cnczumaq.com/wp-content/themes/Zumaq/images/alex_sign_580419cd9687fa9619.jpg" />
+<img src="<?php echo esc_url( __DIR__ ); ?>/images/alex_sign_580419cd9687fa9619.jpg" width="100" />
 <p><span style="font-weight: 400;">XK-TRON COMERCIO DE PECAS E ACESSORIOS ELETRONICOS LTDA<br>
 CNPJ/MF nº 18.966.170/0001-90 - Inscrição Estadual sob o nº 626.528.285.111<br>
 Nome do Representante: Kun Zhao</span></p>
@@ -309,7 +309,7 @@ Nome do Representante: {Representante Cliente:7}</span></p>
 <p style="text-align: justify;">&nbsp;</p>
 
 <p style="text-align: justify;"><span style="font-weight: 400;"><strong>VENDEDORA</strong></span></p>
-<img style="width: 100px;" src="https://contratos.cnczumaq.com/wp-content/themes/Zumaq/images/alex_sign_580419cd9687fa9619.jpg" />
+<img src="<?php echo esc_url( __DIR__ ); ?>/images/alex_sign_580419cd9687fa9619.jpg" width="100" />
 <p><span style="font-weight: 400;">XK-TRON COMERCIO DE PECAS E ACESSORIOS ELETRONICOS LTDA<br>
 CNPJ/MF nº 18.966.170/0001-90 - Inscrição Estadual sob o nº 626.528.285.111<br>
 Nome do Representante: Kun Zhao</span></p>
