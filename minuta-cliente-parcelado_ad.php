@@ -1,7 +1,7 @@
 <?php
 /**
  * Template Name: AD Minuta para cliente parcelado
- * Version: 0.3
+ * Version: 0.4
  * Description: Modelo básico de minuta para cliente com pagamento parcelado
  * Author: Tiago Cordeiro
  * Author URI: https://www.mulhergorila.com
@@ -107,6 +107,8 @@ if ( ! class_exists( 'GFForms' ) ) {
 <p style="text-align: justify;"><strong>3.3.1.</strong> <span style="font-weight: 400;">A <strong>COMPRADORA</strong> deverá abster-se de usar a Máquina para fins não previstos em suas especificações técnicas e a não efetuar qualquer alteração ou adaptação na Máquina, qualquer que seja a razão, sem a prévia e expressa autorização da <strong>VENDEDORA</strong>.</span></p>
 
 <p style="text-align: justify;"><strong>3.4.</strong> <span style="font-weight: 400;">Durante a vigência deste Contrato e até a integral quitação do preço da Máquina, a <strong>COMPRADORA</strong> se obriga a permitir o acesso de representante da <strong>VENDEDORA</strong> em seu estabelecimento para fins de vistoria da Máquina, desde que solicitada com 24 (vinte e quatro) horas de antecedência.</span></p>
+
+<p style="text-align: justify;"><strong>3.5.</strong> <span style="font-weight: 400;">A <strong>COMPRADORA</strong> declara que tem plena ciência de que a presente compra trata-se de uma máquina a ser importada da China pela <strong>VENDEDORA</strong>, sendo que havendo desistência do pedido só será aceito por escrito no prazo limite de 30 (trinta) dias a contar da data da encomenda, se comprometendo a <strong>COMPRADORA</strong> a ressarcir as despesas da <strong>VENDEDORA</strong> que equivalem a 5% do valor da compra, autorizando desde já a <strong>VENDEDORA</strong> a reter o valor do sinal pago e constante das cláusulas 1.1.1. e 2.</span></p>
 
 <p style="text-align: justify;">&nbsp;</p>
 

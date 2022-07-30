@@ -1,7 +1,7 @@
 <?php
 /**
  * Template Name: AD Minuta para revenda a vista FOB
- * Version: 0.4
+ * Version: 0.5
  * Description: Modelo básico de minuta para revenda
  * Author: Tiago Cordeiro
  * Author URI: https://www.mulhergorila.com
@@ -89,6 +89,8 @@ if (!class_exists('GFForms')) {
 <p style="text-align: justify;"><strong>3.3.1.</strong> <span style="font-weight: 400;">A <strong>COMPRADORA</strong> deverá abster-se bem como de informar a terceiros de não utilizar a máquina e ou equipamento para fins não previstos em suas especificações técnicas, bem como  não efetuar qualquer alteração ou adaptação na máquina e ou equipamento sob hipótese alguma.</span></p>
 
 <p style="text-align: justify;"><strong>3.4.</strong> <span style="font-weight: 400;">Durante a vigência deste contrato e até a sua final revenda de cada máquina e ou equipamento pela <strong>COMPRADORA</strong>, se obriga esta a permitir o acesso de representante da <strong>VENDEDORA</strong> em seu estabelecimento para vistoria da máquina, desde que solicitada com 24 (vinte e quatro) horas de antecedência.</span></p>
+
+<p style="text-align: justify;"><strong>3.5.</strong> <span style="font-weight: 400;">A <strong>COMPRADORA</strong> declara que tem plena ciência de que a presente compra trata-se de uma máquina a ser importada da China pela <strong>VENDEDORA</strong>, sendo que havendo desistência do pedido só será aceito por escrito no prazo limite de 30 (trinta) dias a contar da data da encomenda, se comprometendo a <strong>COMPRADORA</strong> a ressarcir as despesas da <strong>VENDEDORA</strong> que equivalem a 5% do valor da compra, autorizando desde já a <strong>VENDEDORA</strong> a reter o valor do sinal pago e constante das cláusulas 1.1.1. e 2.</span></p>
 
 <p style="text-align: justify;">&nbsp;</p>
 
