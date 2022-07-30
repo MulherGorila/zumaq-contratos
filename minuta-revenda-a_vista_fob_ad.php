@@ -93,7 +93,7 @@ if (!class_exists('GFForms')) {
 <p style="text-align: justify;"><strong>3.5.</strong> <span style="font-weight: 400;">A <strong>COMPRADORA</strong> declara que tem plena ciência de que a presente compra trata-se de uma máquina a ser importada da China pela <strong>VENDEDORA</strong>, sendo que havendo desistência do pedido só será aceito por escrito no prazo limite de 30 (trinta) dias a contar da data da encomenda, se comprometendo a <strong>COMPRADORA</strong> a ressarcir as despesas da <strong>VENDEDORA</strong> que equivalem a 5% do valor da compra, autorizando desde já a <strong>VENDEDORA</strong> a reter o valor do sinal pago e constante das cláusulas 1.1.1. e 2.</span></p>
 
 <p style="text-align: justify;"><span style="font-weight: 400;"><strong>COMPRADORA</strong></span></p>
-<img style="width: 200px;" src="{Assinatura do Comprador:51}" />
+<img style="width: 200px;" src="{Assinatura do Comprador:38}" />
 <p><span style="font-weight: 400;">{Cliente:1}<br>
 [gravityforms action="conditional" merge_tag="{Física ou Jurídica:2}" condition="is" value="Física"]
 	CPF: {CNPJ:37} -
