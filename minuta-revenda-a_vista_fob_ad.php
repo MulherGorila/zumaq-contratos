@@ -1,7 +1,7 @@
 <?php
 /**
  * Template Name: AD Minuta para revenda a vista FOB
- * Version: 0.5
+ * Version: 0.6
  * Description: Modelo básico de minuta para revenda
  * Author: Tiago Cordeiro
  * Author URI: https://www.mulhergorila.com
@@ -200,7 +200,7 @@ Nome do Representante: {Representante Cliente:7}</span></p>
 
 <p style="text-align: justify;"><strong>8.1.</strong> <span style="font-weight: 400;">Elegem as partes o foro da comarca da cidade de Santo André, Estado de São Paulo, como único competente para dirimir eventuais dúvidas ou questões oriundas do presente Contrato, com renúncia expressa a qualquer outro, ainda que mais privilegiado seja.</span></p>
 
-<p style="text-align: justify;"><span style="font-weight: 400;">E por estarem assim justos e contratados, as Partes firmam o presente instrumento em duas vias de igual teor e forma, e para um só efeito, juntamente com duas testemunhas, atribuindo ao mesmo, na forma do artigo 585, II, do Código de Processo Civil, a condição de título executivo extrajudicial.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">E por estarem assim justos e contratados, as Partes firmam o presente instrumento em duas vias de igual teor e forma, e para um só efeito, atribuindo ao mesmo, na forma do artigo 585, II, do Código de Processo Civil, a condição de título executivo extrajudicial.</span></p>
 
 <p style="text-align: justify;">&nbsp;</p>
 
@@ -302,7 +302,7 @@ Nome do Representante: {Representante Cliente:7}</span></p>
 - Da <strong>OPERAÇÃO</strong> por ser feixe de fótons transmitido através do Laser Fibra é de suma importância o operador da máquina estar sempre ao seu lado.<br>
 - Da <strong>SEGURANÇA</strong> exigimos o nível de NR06 e sempre extintor de Co² ao lado da máquina, calculando o perímetro necessário para atender em caso de incêndio.</span></p>
 
-<p style="text-align: justify;"><span style="font-weight: 400;">E por estarem assim justos e contratados, as Partes firmam o presente instrumento em duas vias de igual teor e forma, e para um só efeito, juntamente com duas testemunhas, atribuindo ao mesmo, na forma do artigo 585, II, do Código de Processo Civil, a condição de título executivo extrajudicial.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">E por estarem assim justos e contratados, as Partes firmam o presente instrumento em duas vias de igual teor e forma, e para um só efeito, atribuindo ao mesmo, na forma do artigo 585, II, do Código de Processo Civil, a condição de título executivo extrajudicial.</span></p>
 
 <p style="text-align: justify;">Santo André, {date_created:format:j \d\e F \d\e Y}</p>
 

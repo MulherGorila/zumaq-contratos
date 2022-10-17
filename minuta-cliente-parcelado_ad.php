@@ -1,7 +1,7 @@
 <?php
 /**
  * Template Name: AD Minuta para cliente parcelado
- * Version: 0.4
+ * Version: 0.5
  * Description: Modelo básico de minuta para cliente com pagamento parcelado
  * Author: Tiago Cordeiro
  * Author URI: https://www.mulhergorila.com
@@ -238,7 +238,7 @@ Nome do Representante: {Representante Cliente:7}</span></p>
 
 <p style="text-align: justify;"><strong>10.1.</strong> <span style="font-weight: 400;">Elegem as partes o foro da comarca da cidade de Santo André, Estado de São Paulo, como único competente para dirimir eventuais dúvidas ou questões oriundas do presente Contrato, com renúncia expressa a qualquer outro, ainda que mais privilegiado seja.</span></p>
 
-<p style="text-align: justify;"><span style="font-weight: 400;">E por estarem assim justos e contratados, as Partes firmam o presente instrumento em duas vias de igual teor e forma, e para um só efeito, juntamente com duas testemunhas, atribuindo ao mesmo, na forma do artigo 585, II, do Código de Processo Civil, a condição de título executivo extrajudicial.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">E por estarem assim justos e contratados, as Partes firmam o presente instrumento em duas vias de igual teor e forma, e para um só efeito, atribuindo ao mesmo, na forma do artigo 585, II, do Código de Processo Civil, a condição de título executivo extrajudicial.</span></p>
 
 <p style="text-align: justify;">Santo André, {date_created:format:j \d\e F \d\e Y}</p>
 
