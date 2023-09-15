@@ -1,7 +1,7 @@
 <?php
 /**
  * Template Name: AD Minuta para revenda a vista FOB
- * Version: 0.6
+ * Version: 0.7
  * Description: Modelo básico de minuta para revenda
  * Author: Tiago Cordeiro
  * Author URI: https://www.mulhergorila.com
@@ -262,7 +262,7 @@ Nome do Representante: {Representante Cliente:7}</span></p>
 
 <p style="text-align: justify;"><strong>Parágrafo único:</strong></p>
 
-<p style="text-align: justify;"><span style="font-weight: 400;">- Da <strong>GARANTIA</strong> está acordado que a Máquina Laser Co² CNC tem 12 meses de garantia, fonte e tubo laser têm 3 meses de garantia, espelho e lente garantia no ato da entrega.<br>
+<p style="text-align: justify;"><span style="font-weight: 400;">- Da <strong>GARANTIA</strong> está acordado que a Máquina Laser Co² CNC tem 12 meses de garantia, fonte, tubo laser e se houver computador têm 3 (três) meses de garantia, espelho e lente garantia no ato da entrega.<br>
 - Da <strong>OPERAÇÃO</strong> por ser feixe de fótons transmitido através do Laser Co² é de suma importância o operador da máquina estar sempre ao seu lado.<br>
 - Da <strong>SEGURANÇA</strong> exigimos o nível de NR06 e sempre extintor de Co² ao lado da máquina, calculando o perímetro necessário para atender em caso de incêndio.</span></p>
 
