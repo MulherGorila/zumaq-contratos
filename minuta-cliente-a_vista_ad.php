@@ -1,7 +1,7 @@
 <?php
 /**
  * Template Name: AD Minuta para cliente a vista
- * Version: 0.8
+ * Version: 0.9
  * Description: Modelo básico de minuta para cliente com pagamento a vista
  * Author: Tiago Cordeiro
  * Author URI: https://www.mulhergorila.com
@@ -158,7 +158,7 @@ Nome do Representante: {Representante Cliente:7}</span></p>
 
 <p style="text-align: justify;"><strong>6.</strong> <span style="font-weight: 400;"><strong>DA INSTALAÇÃO DO EQUIPAMENTO</strong></span></p>
 
-<p style="text-align: justify;"><strong>6.1.</strong> <span style="font-weight: 400;">Ocorrendo instalação e assistência na garantia, implicará em custos com deslocamento de R$ 1,00/km para a <strong>COMPRADORA</strong>, considerando o endereço da <strong>VENDEDORA</strong> até o endereço da <strong>COMPRADORA</strong> somando a Quilometragem de ida e volta com um valor mínimo de R$ 70,00. Acima de 10 horas, os custos da equipe serão de responsabilidade da <strong>COMPRADORA</strong> e incluirão alimentação e aposentos condignos.</span></p>
+<p style="text-align: justify;"><strong>6.1.</strong> <span style="font-weight: 400;">Ocorrendo instalação e assistência na garantia, implicará em custos com deslocamento de R$ 1,50/km para a <strong>COMPRADORA</strong>, considerando o endereço da <strong>VENDEDORA</strong> até o endereço da <strong>COMPRADORA</strong> somando a Quilometragem de ida e volta com um valor mínimo de R$ 70,00. Acima de 10 horas, os custos da equipe serão de responsabilidade da <strong>COMPRADORA</strong> e incluirão alimentação e aposentos condignos.</span></p>
 
 <p style="text-align: justify;"><strong>6.2.</strong> <span style="font-weight: 400;">A máquina sempre será instalada no endereço constante no contrato e, sendo este diferente da sede da <strong>COMPRADORA</strong> constará no campo de observação do contrato.</span></p>
 
