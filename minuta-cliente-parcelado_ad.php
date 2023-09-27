@@ -1,7 +1,7 @@
 <?php
 /**
  * Template Name: AD Minuta para cliente parcelado
- * Version: 0.7
+ * Version: 0.7.1
  * Description: Modelo básico de minuta para cliente com pagamento parcelado
  * Author: Tiago Cordeiro
  * Author URI: https://www.mulhergorila.com
@@ -301,7 +301,7 @@ Nome do Representante: {Representante Cliente:7}</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">É de obrigação da <strong>COMPRADORA</strong> neste ato declara possuir uma estrutura para adquirir a Máquina <strong>Router CNC</strong> Computador com entrada PCI, ambiente climatizado de até 35°C, piso nivelado, água destilada para refrigeração do spindle quando for água, duas Linhas separadas, estabilizador de corrente, podendo variar entre 215V até 240V (ou 380V até 410V), apenas uma linha 220V (ou 380V)</span></p>
 
 <p style="text-align: justify;"><span style="font-weight: 400;"><strong>Parágrafo único:</strong><br>
-- Da <strong>GARANTIA</strong> está acordado que a Router CNC tem garantia completa de 12 meses.<br>
+- Da <strong>GARANTIA</strong> está acordado que a Router CNC tem garantia completa de 12 meses, se houver computador têm 3 (três) meses de garantia.<br>
 - Da <strong>OPERAÇÃO</strong> é de suma importância o operador da máquina estar sempre ao seu lado, pois ela pode colidir com seus eixos em caso de esquecer seu referenciamento adequado.<br>
 - Da <strong>SEGURANÇA</strong> exigimos o nível de NR06 e sempre extintor de Co² ao lado da máquina, calculando o perímetro necessário para atender em caso de incêndio.</span></p>
 
@@ -310,7 +310,7 @@ Nome do Representante: {Representante Cliente:7}</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">É de obrigação da <strong>COMPRADORA</strong> uma estrutura para adquirir a Máquina Laser. Ambiente climatizado de até 30°C, Álcool Etílico Anidro para limpeza de lente, Estabilizador de Corrente podendo variar entre 215V até 240V, apenas uma linha 220V, Computador com entrada USB.</span></p>
 
 <p style="text-align: justify;"><span style="font-weight: 400;"><strong>Parágrafo único:</strong><br>
-- Da <strong>GARANTIA</strong> está acordado que a Máquina Fibra a Laser CNC tem 12 meses de garantia, lente garantia no ato da entrega.<br>
+- Da <strong>GARANTIA</strong> está acordado que a Máquina Fibra a Laser CNC tem 12 meses de garantia, lente garantia no ato da entrega, se houver computador têm 3 (três) meses de garantia.<br>
 - Da <strong>OPERAÇÃO</strong> por ser feixe de fótons transmitido através do Laser Fibra é de suma importância o operador da máquina estar sempre ao seu lado.<br>
 - Da <strong>SEGURANÇA</strong> exigimos o nível de NR06 e sempre extintor de Co² ao lado da máquina, calculando o perímetro necessário para atender em caso de incêndio.</span></p>
 
