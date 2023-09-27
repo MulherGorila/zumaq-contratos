@@ -1,7 +1,7 @@
 <?php
 /**
  * Template Name: AD Minuta para revenda a vista FOB
- * Version: 0.8
+ * Version: 0.8.1
  * Description: Modelo básico de minuta para revenda
  * Author: Tiago Cordeiro
  * Author URI: https://www.mulhergorila.com
@@ -272,7 +272,7 @@ Nome do Representante: {Representante Cliente:7}</span></p>
 
 <p style="text-align: justify;"><strong>Parágrafo único:</strong></p>
 
-<p style="text-align: justify;"><span style="font-weight: 400;">- Da <strong>GARANTIA</strong> está acordado que a Router CNC tem garantia completa de 12 meses.<br>
+<p style="text-align: justify;"><span style="font-weight: 400;">- Da <strong>GARANTIA</strong> está acordado que a Router CNC tem garantia completa de 12 meses, se houver computador têm 3 (três) meses de garantia.<br>
 - Da <strong>OPERAÇÃO</strong> é de suma importância o operador da máquina estar sempre ao seu lado, pois ela pode colidir com seus eixos em caso de esquecer seu referenciamento adequado.<br>
 - Da <strong>SEGURANÇA</strong> exigimos o nível de NR06 e sempre extintor de Co² ao lado da máquina, calculando o perímetro necessário para atender em caso de incêndio.</span></p>
 
@@ -282,7 +282,7 @@ Nome do Representante: {Representante Cliente:7}</span></p>
 
 <p style="text-align: justify;"><strong>Parágrafo único:</strong></p>
 
-<p style="text-align: justify;"><span style="font-weight: 400;">- Da <strong>GARANTIA</strong> está acordado que a Máquina Fibra a Laser CNC tem 12 meses de garantia, lente garantia no ato da entrega.<br>
+<p style="text-align: justify;"><span style="font-weight: 400;">- Da <strong>GARANTIA</strong> está acordado que a Máquina Fibra a Laser CNC tem 12 meses de garantia, lente garantia no ato da entrega, se houver computador têm 3 (três) meses de garantia.<br>
 - Da <strong>OPERAÇÃO</strong> por ser feixe de fótons transmitido através do Laser Fibra é de suma importância o operador da máquina estar sempre ao seu lado.<br>
 - Da <strong>SEGURANÇA</strong> exigimos o nível de NR06 e sempre extintor de Co² ao lado da máquina, calculando o perímetro necessário para atender em caso de incêndio.</span></p>
 
