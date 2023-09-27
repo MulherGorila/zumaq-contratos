@@ -1,7 +1,7 @@
 <?php
 /**
  * Template Name: AD Minuta para revenda a vista FOB
- * Version: 0.7
+ * Version: 0.8
  * Description: Modelo básico de minuta para revenda
  * Author: Tiago Cordeiro
  * Author URI: https://www.mulhergorila.com
@@ -37,7 +37,7 @@ if (!class_exists('GFForms')) {
 
 <p>Pelo presente instrumento particular, de um lado,</p>
 
-<p style="text-align: justify;"><strong>XK-TRON COMERCIO DE PECAS E ACESSORIOS ELETRONICOS EIRELI</strong>, pessoa Jurídica Brasileira de Direito Privado, inscrita no CNPJ/MF sob o nº 18.966.170/0001-90, Inscrição Estadual sob o nº 626.528.285.111, com domicílio em Santo André, Estado de São Paulo, onde tem sede na Rua Viena nº 150, Bairro Vila Metalurgica, CEP 09220-700, neste ato denominada como <strong>"ZUMAQ"</strong>, doravante tratada simplesmente de <strong>"VENDEDORA"</strong></p>
+<p style="text-align: justify;"><strong>XK-TRON COMERCIO DE PECAS E ACESSORIOS ELETRONICOS EIRELI</strong>, pessoa Jurídica Brasileira de Direito Privado, inscrita no CNPJ/MF sob o nº 18.966.170/0001-90, Inscrição Estadual sob o nº 626.528.285.111, com domicílio em Santo André, Estado de São Paulo, onde tem sede na Rua Itaguaí nº 22, Bairro Jardim Stella, CEP 09185-620, neste ato denominada como <strong>"ZUMAQ"</strong>, doravante tratada simplesmente de <strong>"VENDEDORA"</strong></p>
 
 <p>e, de outro,</p>
 
@@ -120,11 +120,11 @@ Nome do Representante: {Representante Cliente:7}</span></p>
 
 <p style="text-align: justify;"><strong>Parágrafo único:</strong> <span style="font-weight: 400;">No caso de necessidade da substituição de peças dentro do prazo da garantia prevista, a <strong>COMPRADORA</strong> se compromete a encaminhar a máquina e ou  equipamento às suas expensas, até o endereço da <strong>VENDEDORA</strong>, para que esta possa confirmar através de laudo técnico o defeito alegado, e assim autorizar a sua substituição e ou reparo necessário, comunicando por escrito à <strong>COMPRADORA</strong>.</span></p>
 
-<p style="text-align: justify;"><strong>4.1.1.</strong> <span style="font-weight: 400;">O prazo de garantia acima estipulado é fixo, sendo que eventual utilização da garantia técnica ora acordada pela <strong>COMPRADORA</strong> não implicará em suspensão da contagem ou em nova contagem do prazo de garantia que é de 2 (dois) anos a contar da emissão da Nota Fiscal de venda correspondente.</span></p>
+<p style="text-align: justify;"><strong>4.1.1.</strong> <span style="font-weight: 400;">O prazo de garantia acima estipulado é fixo, sendo que eventual utilização da garantia técnica ora acordada pela <strong>COMPRADORA</strong> não implicará em suspensão da contagem ou em nova contagem do prazo de garantia que é de 12 meses a contar da emissão da Nota Fiscal de venda correspondente.</span></p>
 
 <p style="text-align: justify;"><strong>4.1.2.</strong> <span style="font-weight: 400;">Com relação  a garantia especificamente das maquinas e ou equipamentos =  Laser Co², Laser Fibra de Gravação, Laser Fibra de Corte e Router CNC, prevalecerá os prazos constantes no <strong>ANEXO I</strong> que faz parte integrante deste contrato.</span></p>
 
-<p style="text-align: justify;"><strong>4.2.</strong> <span style="font-weight: 400;">Durante o prazo da garantia técnica, a <strong>VENDEDORA</strong> se obriga a consertar qualquer vício ou defeito das peças e/ou a substituição da própria máquina caso não seja possível o seu conserto, sem qualquer ônus para a <strong>COMPRADORA</strong>, exceto as despesas como: transporte da máquina, transporte de peças, locomoção, hospedagem e alimentação.</span></p>
+<p style="text-align: justify;"><strong>4.2.</strong> <span style="font-weight: 400;">Durante o prazo da garantia técnica, a <strong>VENDEDORA</strong> se obriga a consertar qualquer vício ou defeito das peças e/ou a substituição da própria máquina caso não seja possível o seu conserto, sem qualquer ônus para a <strong>COMPRADORA</strong>, exceto as despesas como: transporte da máquina, transporte de peças, locomoção, hospedagem e alimentação. A <strong>COMPRADORA</strong> concorda plenamente, que o direito final de interpretação e atestado técnico de garantia pertence a <strong>VENDEDORA</strong></span></p>
 
 <p style="text-align: justify;"><strong>4.3.</strong> <span style="font-weight: 400;">A presente garantia técnica limita-se a vícios e defeitos nas Máquinas, incluindo aqueles causados por deficiência de material e/ou de mão-de-obra utilizados em sua fabricação, e não inclui a substituição de peças e componentes sujeitos a desgaste natural decorrente do uso da Máquina.</span></p>
 
@@ -144,11 +144,11 @@ Nome do Representante: {Representante Cliente:7}</span></p>
 
 <p style="text-align: justify;"><strong>5.1.</strong> <span style="font-weight: 400;">No caso de inadimplemento da <strong>COMPRADORA</strong> no pagamento de qualquer valor constante  do preço, em prazo superior a 05 (cinco) dias, caberá à <strong>VENDEDORA</strong> optar, na forma da lei e a seu exclusivo critério, por:</span></p>
 
-<p style="text-align: justify;"><strong>(I)</strong> <span style="font-weight: 400;">Manter vigente o Contrato e propor ação de execução contra a <strong>COMPRADORA</strong>, hipótese em que a dívida será atualizada pelo IGP-M/FGV e terá a incidência de juros e de multa conforme a Cláusula 2.3.</span></p>
+<p style="text-align: justify;"><strong>(I)</strong> <span style="font-weight: 400;">Manter vigente o Contrato e propor ação de execução contra a <strong>COMPRADORA</strong>, hipótese em que a dívida será atualizada pelo IGP-M/FGV e terá a incidência de juros e de multa conforme a Cláusula 2.1.</span></p>
 
 <p style="text-align: justify;"><strong>(II)</strong> <span style="font-weight: 400;">Efetuar a rescisão motivada deste Contrato, requerendo a imediata reintegração da posse da Máquina. Neste caso, a <strong>VENDEDORA</strong> devolverá à <strong>COMPRADORA</strong> os valores já pagos até a data da rescisão, descontando deste montante valor suficiente para cobrir:</span></p>
 
-<p style="text-align: justify;"><strong>(a)</strong> <span style="font-weight: 400;">a depreciação verificada entre a data de venda (valor da Nota Fiscal) e o valor de mercado do equipamento na data da apreensão ou, a critério da <strong>VENDEDORA</strong> o valor correspondente à depreciação conforme estabelecido pela Instrução Normativa n. 162, de 31.12.1998, editada pela Receita Federal do Brasil (10% ao ano);</span></p>
+<p style="text-align: justify;"><strong>(a)</strong> <span style="font-weight: 400;">a depreciação verificada entre a data de venda (valor da Nota Fiscal) e o valor de mercado do equipamento na data da apreensão ou, a critério da <strong>VENDEDORA</strong> o valor correspondente à depreciação conforme estabelecido pela Instrução Normativa n. 1700 de 2017, editada pela Receita Federal do Brasil (10% ao ano);</span></p>
 
 <p style="text-align: justify;"><strong>(b)</strong> <span style="font-weight: 400;">o valor que, por direito, é devido à <strong>VENDEDORA</strong> a título de indenização; perdas e danos ou lucro cessante, nos termos dos artigos 475 e 527, do Código Civil Brasileiro, durante o período em que a Compradora esteve em posse do equipamento;</span></p>
 
@@ -158,7 +158,7 @@ Nome do Representante: {Representante Cliente:7}</span></p>
 
 <p style="text-align: justify;"><strong>5.2.</strong> <span style="font-weight: 400;">O presente contrato resolve-se com a distribuição do pedido de Recuperação Judicial ou falência da <strong>COMPRADORA</strong>.</span></p>
 
-<p style="text-align: justify;"><strong>5.3.</strong> <span style="font-weight: 400;">Para o caso de desistência da Cláusula 2.5 por parte da <strong>COMPRADORA</strong>, perderá ela em favor da <strong>VENDEDORA</strong> a título de penalidade o valor referente a entrada, e ou equivalente a 40% do total do valor da máquina.</span></p>
+<p style="text-align: justify;"><strong>5.3.</strong> <span style="font-weight: 400;">Para o caso de desistência da por parte da <strong>COMPRADORA</strong>, perderá ela em favor da <strong>VENDEDORA</strong> a título de penalidade o valor referente a entrada, e ou equivalente a 40% do total do valor da máquina.</span></p>
 
 <p style="text-align: justify;">&nbsp;</p>
 
@@ -192,7 +192,7 @@ Nome do Representante: {Representante Cliente:7}</span></p>
 
 <p style="text-align: justify;"><strong>7.7.</strong> <span style="font-weight: 400;">Nenhuma das Partes poderá ser responsabilizada pelo não cumprimento de quaisquer cláusulas ou condições do presente Contrato desde que resultantes de caso fortuito ou de força maior, tal como definido no artigo 393 e seu parágrafo único, do Código Civil.</span></p>
 
-<p style="text-align: justify;"><strong>7.8.</strong> <span style="font-weight: 400;">A <strong>VENDEDORA</strong> declara que o horário de atendimento é das 9:00 até 17:00 de Segunda a Sexta-Feira exceto feriados e recesso coletivo do dia 22/12/2021 até 05/01/2022.</span></p>
+<p style="text-align: justify;"><strong>7.8.</strong> <span style="font-weight: 400;">A <strong>VENDEDORA</strong> declara que o horário de atendimento é das 9:00 até 17:00 de Segunda a Sexta-Feira exceto feriados e recesso coletivo</span></p>
 
 <p style="text-align: justify;">&nbsp;</p>
 
@@ -200,7 +200,7 @@ Nome do Representante: {Representante Cliente:7}</span></p>
 
 <p style="text-align: justify;"><strong>8.1.</strong> <span style="font-weight: 400;">Elegem as partes o foro da comarca da cidade de Santo André, Estado de São Paulo, como único competente para dirimir eventuais dúvidas ou questões oriundas do presente Contrato, com renúncia expressa a qualquer outro, ainda que mais privilegiado seja.</span></p>
 
-<p style="text-align: justify;"><span style="font-weight: 400;">E por estarem assim justos e contratados, as Partes firmam o presente instrumento em duas vias de igual teor e forma, e para um só efeito, atribuindo ao mesmo, na forma do artigo 585, II, do Código de Processo Civil, a condição de título executivo extrajudicial.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">E por estarem assim justos e contratados, as Partes firmam o presente instrumento em duas vias de igual teor e forma, e para um só efeito, atribuindo ao mesmo, na forma do artigo 784, III, do Código de Processo Civil, a condição de título executivo extrajudicial.</span></p>
 
 <p style="text-align: justify;">&nbsp;</p>
 
@@ -268,7 +268,7 @@ Nome do Representante: {Representante Cliente:7}</span></p>
 
 <p style="text-align: justify;"><strong>H) Router CNC</strong></p>
 
-<p style="text-align: justify;"><span style="font-weight: 400;">É de obrigação da <strong>COMPRADORA</strong> neste ato declara possuir uma estrutura para adquirir a Máquina <strong>Router CNC</strong> Computador com entrada PCI, ambiente climatizado de até 35°C, piso nivelado, água destilada para refrigeração do spindle quando for água, duas Linhas separadas.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">É de obrigação da <strong>COMPRADORA</strong> neste ato declara possuir uma estrutura para adquirir a Máquina <strong>Router CNC</strong> Computador com entrada PCI, ambiente climatizado de até 35°C, piso nivelado, água destilada para refrigeração do spindle quando for água, duas Linhas separadas, estabilizador de corrente, podendo variar entre 215V até 240V (ou 380V até 410V), apenas uma linha 220V (ou 380V)</span></p>
 
 <p style="text-align: justify;"><strong>Parágrafo único:</strong></p>
 
@@ -298,11 +298,11 @@ Nome do Representante: {Representante Cliente:7}</span></p>
 
 <p style="text-align: justify;"><strong>Parágrafo único:</strong></p>
 
-<p style="text-align: justify;"><span style="font-weight: 400;">- Da <strong>GARANTIA</strong> está acordado que a Máquina Laser Fibra CNC tem 12 meses de garantia, lente e ponteira garantia no ato da entrega.<br>
+<p style="text-align: justify;"><span style="font-weight: 400;">- Da <strong>GARANTIA</strong> está acordado que a Máquina Laser Fibra CNC tem 12 meses de garantia, fonte de laser fibra garantia de 24 meses, se houver computador têm 3 (três) meses de garantia, lente e ponteira garantia no ato da entrega.<br>
 - Da <strong>OPERAÇÃO</strong> por ser feixe de fótons transmitido através do Laser Fibra é de suma importância o operador da máquina estar sempre ao seu lado.<br>
 - Da <strong>SEGURANÇA</strong> exigimos o nível de NR06 e sempre extintor de Co² ao lado da máquina, calculando o perímetro necessário para atender em caso de incêndio.</span></p>
 
-<p style="text-align: justify;"><span style="font-weight: 400;">E por estarem assim justos e contratados, as Partes firmam o presente instrumento em duas vias de igual teor e forma, e para um só efeito, atribuindo ao mesmo, na forma do artigo 585, II, do Código de Processo Civil, a condição de título executivo extrajudicial.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">E por estarem assim justos e contratados, as Partes firmam o presente instrumento em duas vias de igual teor e forma, e para um só efeito, atribuindo ao mesmo, na forma do artigo 784, III, do Código de Processo Civil, a condição de título executivo extrajudicial.</span></p>
 
 <p style="text-align: justify;">Santo André, {date_created:format:j \d\e F \d\e Y}</p>
 
