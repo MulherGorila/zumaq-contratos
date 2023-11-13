@@ -325,7 +325,7 @@ Nome do Representante: {Representante Cliente:7}</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">Para máquinas acima de 3000w considerar um piso reforçado de concreto.</span></p>
 
 <p style="text-align: justify;"><span style="font-weight: 400;"><strong>Parágrafo único:</strong><br>
-- Da <strong>GARANTIA</strong> está acordado que a Máquina Laser Fibra CNC tem 12 meses de garantia, fonte de laser fibra garantia de 24 meses, se houver computador têm 3 (três) meses de garantia, lente e ponteira garantia no ato da entrega.<br>
+- Da <strong>GARANTIA</strong> está acordado que a Máquina Laser Fibra CNC tem 12 meses de garantia, fonte de laser fibra de 1000W até 2000W garantia de 12 meses, de 3000W até 6000W garantia de 24 meses, se houver computador têm 3 (três) meses de garantia, lente e ponteira garantia no ato da entrega.<br>
 - Da <strong>OPERAÇÃO</strong> por ser feixe de fótons transmitido através do Laser Fibra é de suma importância o operador da máquina estar sempre ao seu lado.<br>
 - Da <strong>SEGURANÇA</strong> exigimos o nível de NR06 e sempre extintor de Co² ao lado da máquina, calculando o perímetro necessário para atender em caso de incêndio.</span></p>
 
