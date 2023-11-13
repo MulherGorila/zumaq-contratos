@@ -1,7 +1,7 @@
 <?php
 /**
  * Template Name: AD Minuta para revenda a vista FOB
- * Version: 0.8.1
+ * Version: 0.8.2
  * Description: Modelo básico de minuta para revenda
  * Author: Tiago Cordeiro
  * Author URI: https://www.mulhergorila.com
