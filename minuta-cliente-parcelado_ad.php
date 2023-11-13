@@ -1,7 +1,7 @@
 <?php
 /**
  * Template Name: AD Minuta para cliente parcelado
- * Version: 0.7.1
+ * Version: 0.7.2
  * Description: Modelo básico de minuta para cliente com pagamento parcelado
  * Author: Tiago Cordeiro
  * Author URI: https://www.mulhergorila.com

@@ -1,7 +1,7 @@
 <?php
 /**
  * Template Name: AD Minuta para cliente a vista
- * Version: 0.9
+ * Version: 0.9.1
  * Description: Modelo básico de minuta para cliente com pagamento a vista
  * Author: Tiago Cordeiro
  * Author URI: https://www.mulhergorila.com
