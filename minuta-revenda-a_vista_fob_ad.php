@@ -1,7 +1,7 @@
 <?php
 /**
  * Template Name: AD Minuta para revenda a vista FOB
- * Version: 0.8.2
+ * Version: 0.8.3
  * Description: Modelo básico de minuta para revenda
  * Author: Tiago Cordeiro
  * Author URI: https://www.mulhergorila.com
@@ -170,7 +170,7 @@ Nome do Representante: {Representante Cliente:7}</span></p>
 
 <p style="text-align: justify;"><strong>6.3.</strong> <span style="font-weight: 400;">É de obrigação da COMPRADORA adequar-se ao ANEXO I, deste mesmo contrato.</span></p>
 
-<p style="text-align: justify;"><strong>6.4.</strong> <span style="font-weight: 400;">Ocorrendo instalação e assistência na garantia, implicará em custos com deslocamento de R$ 1,50/km para a <strong>COMPRADORA</strong>, considerando o endereço da <strong>VENDEDORA</strong> até o endereço da <strong>COMPRADORA</strong> somando a Quilometragem de ida e volta com um valor mínimo de R$ 70,00 será cobrado R$ 1.000,00 por dia de manutenção/instalação. Acima de 10 horas, os custos da equipe serão de responsabilidade da <strong>COMPRADORA</strong> e incluirão alimentação e aposentos condignos.</span></p>
+<p style="text-align: justify;"><strong>6.4.</strong> <span style="font-weight: 400;">Ocorrendo instalação e assistência na garantia, implicará em custos com deslocamento de R$ 1,75/km para a <strong>COMPRADORA</strong>, considerando o endereço da <strong>VENDEDORA</strong> até o endereço da <strong>COMPRADORA</strong> somando a Quilometragem de ida e volta com um valor mínimo de R$ 70,00 será cobrado R$ 1.000,00 por dia de manutenção/instalação. Acima de 10 horas, os custos da equipe serão de responsabilidade da <strong>COMPRADORA</strong> e incluirão alimentação e aposentos condignos.</span></p>
 
 <p style="text-align: justify;"><strong>6.5.</strong> <span style="font-weight: 400;">Cabe a <strong>COMPRADORA</strong> transportar e organizar a entrega da <strong>MÁQUINA</strong>, sem qualquer ônus ou responsabilidade para a <strong>VENDEDORA</strong>.</span></p>
 
