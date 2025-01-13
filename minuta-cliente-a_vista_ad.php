@@ -1,7 +1,7 @@
 <?php
 /**
  * Template Name: AD Minuta para cliente a vista
- * Version: 0.9.2
+ * Version: 0.9.3
  * Description: Modelo básico de minuta para cliente com pagamento a vista
  * Author: Tiago Cordeiro
  * Author URI: https://www.mulhergorila.com
@@ -231,7 +231,7 @@ Nome do Representante: {Representante Cliente:7}</span></p>
 
 <p style="text-align: justify;"><strong>CONDIÇÕES PARA INSTALAÇÃO E DA PRESTAÇÃO DE ASSISTÊNCIA TÉCNICA DO EQUIPAMENTO</strong></p>
 
-<p style="text-align: justify;"><strong>A)</strong> <span style="font-weight: 400;">A <strong>MÁQUINA</strong> sempre será instalado pela <strong>COMPRADORA</strong> sem qualquer ônus ou responsabilidade para a <strong>VENDEDORA</strong>.</span></p>
+<p style="text-align: justify;"><strong>A)</strong> <span style="font-weight: 400;">A <strong>MÁQUINA</strong> sempre será instalado pela <strong>VENDEDORA</strong> sem qualquer ônus ou responsabilidade para a <strong>COMPRADORA</strong>.</span></p>
 
 <p style="text-align: justify;"><strong>B)</strong> <span style="font-weight: 400;">A <strong>COMPRADORA</strong> está proibida de usar adaptadores e ou transformadores, não homologados pela norma Brasileira.</span></p>
 

@@ -1,7 +1,7 @@
 <?php
 /**
  * Template Name: AD Minuta para revenda a vista FOB
- * Version: 0.8.3
+ * Version: 0.8.4
  * Description: Modelo básico de minuta para revenda
  * Author: Tiago Cordeiro
  * Author URI: https://www.mulhergorila.com
@@ -246,7 +246,7 @@ Nome do Representante: {Representante Cliente:7}</span></p>
 
 <p style="text-align: justify;"><strong>A)</strong> <span style="font-weight: 400;">A <strong>COMPRADORA</strong> assumirá todos os custos, administração e treinamento com o <strong>CLIENTE</strong> para executar o pós-vendas. Sem qualquer ônus ou responsabilidade para a <strong>VENDEDORA</strong>.</span></p>
 
-<p style="text-align: justify;"><strong>B)</strong> <span style="font-weight: 400;">A <strong>MÁQUINA</strong> sempre será instalado pela <strong>COMPRADORA</strong> sem qualquer ônus ou responsabilidade para a <strong>VENDEDORA</strong></span></p>
+<p style="text-align: justify;"><strong>B)</strong> <span style="font-weight: 400;">A <strong>MÁQUINA</strong> sempre será instalado pela <strong>VENDEDORA</strong> sem qualquer ônus ou responsabilidade para a <strong>COMPRADORA</strong></span></p>
 
 <p style="text-align: justify;"><strong>C)</strong> <span style="font-weight: 400;">A <strong>COMPRADORA</strong> neste ato declara-se e qualifica-se como uma empresa/profissional, apta a resolver qualquer tipo de ajustes do equipamento/máquina, com todos os acessórios que a ela integram, <strong>inclusive os Itens de segurança exigidos pelas leis Brasileiras e pelas Normas Internacionais</strong>; também é de seu pleno/inteiro conhecimento, toda as orientações para manutenções e consertos constantes/descritas no manual técnico que a acompanha e também faz parte integrante do presente contrato</span></p>
 
