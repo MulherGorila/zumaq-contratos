@@ -58,15 +58,13 @@ if ( ! class_exists( 'GFForms' ) ) {
 	
 <p style="text-align: justify;"><span style="font-weight: 400;">têm entre si justo e contratado o presente Contrato de Reserva de Equipamento que será regido conforme os termos e condições seguir declinados, que livremente estipulam e aceitam.</span></p>
 
-<p style="text-align: justify;">&nbsp;</p>
-
 <p style="text-align: justify;"><strong>1.</strong> <span style="font-weight: 400;"><strong>OBJETO DO CONTRATO</strong></span></p>
 
 <p style="text-align: left;"><span style="font-weight: 400;">
-MODELO: {Modelo:55} - PEDIDO: {Número do Pedido:21}
-VALOR TOTAL DO EQUIPAMENTO: {Valor Total do Equipamento:32}
-VALOR RESERVA (5%) SOBRE O TOTAL: {Valor de Reserva (5% sobre o total):56}
-DATA PAGAMENTO: {Data Pagamento:57}
+MODELO: {Modelo:55} - PEDIDO: {Número do Pedido:21}<br/>
+VALOR TOTAL DO EQUIPAMENTO: {Valor Total do Equipamento:32}<br/>
+VALOR RESERVA (5%) SOBRE O TOTAL: {Valor de Reserva (5% sobre o total):56}<br/>
+DATA PAGAMENTO: {Data Pagamento:57}<br/>
 </span></p>
 
 <p style="text-align: justify;"><strong>2.</strong> <span style="font-weight: 400;"><strong>PRAZO DE ENTREGA</strong></span></p>
@@ -77,8 +75,6 @@ DATA PAGAMENTO: {Data Pagamento:57}
 
 <p style="text-align: justify;"><strong>2.3.</strong> <span style="font-weight: 400;">A <strong>VENDEDORA</strong> sinalizando A <strong>COMPRADORA</strong> que o equipamento já está disponível, a mesma tem o prazo de 30 dias para finalizar o pagamento total do equipamento. Caso não haja esse comprimento a <strong>VENDEDORA</strong> fica autorizada a reter o valor do sinal pago no percentual de <strong>5% (cinco por cento)</strong> do valor total da compra.</span></p>
 
-<p style="text-align: justify;">&nbsp;</p>
-
 <p style="text-align: justify;"><strong>3.</strong> <span style="font-weight: 400;"><strong>DESISTÊNCIA DO PEDIDO</strong></span></p>
 
 <p style="text-align: justify;"><strong>3.1.</strong> <span style="font-weight: 400;">A <strong>COMPRADORA</strong> declara ter ciência de que a máquina objeto deste contrato será importada da China. Caso haja desistência do pedido, está só será aceita ser formalizada por escrito no prazo de até 30 (trinta) dias a contar da data da encomenda.</span></p>
@@ -87,14 +83,12 @@ DATA PAGAMENTO: {Data Pagamento:57}
 
 <p style="text-align: justify;">Santo André, {date_created:format:j \d\e F \d\e Y}</p>
 
-<p style="text-align: justify;">&nbsp;</p>
-
 <p style="text-align: justify;"><span style="font-weight: 400;"><strong>VENDEDORA</strong></span></p>
 <img src="<?php echo esc_url( __DIR__ ); ?>/images/alex_sign_580419cd9687fa9619.jpg" width="100" />
 <p><span style="font-weight: 400;">XK-TRON COMERCIO DE PECAS E ACESSORIOS ELETRONICOS LTDA<br>
 CNPJ/MF nº 18.966.170/0001-90 - Inscrição Estadual sob o nº 626.528.285.111<br>
 Nome do Representante: Kun Zhao</span></p>
-									
+
 <p style="text-align: justify;">&nbsp;</p>
 
 <p style="text-align: justify;"><span style="font-weight: 400;"><strong>COMPRADORA</strong></span></p>
