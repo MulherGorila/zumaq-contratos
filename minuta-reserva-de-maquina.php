@@ -26,10 +26,10 @@ if ( ! class_exists( 'GFForms' ) ) {
 		text-align: center;
 		text-transform: uppercase;
 	/* 		color: #a62828; */
-		border-bottom: 1px solid #999;
+    /* border-bottom: 1px solid #999; */
 	}
 	@page {
-	   margin: 10mm 15mm 10mm 20mm;
+	   margin: 10mm 10mm 10mm 10mm;
 	}
 /*
 	tr:nth-child(even) {background-color: #f2f2f2}
