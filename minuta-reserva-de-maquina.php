@@ -82,35 +82,38 @@ DATA PAGAMENTO: {Data Pagamento:57}<br/>
 <p style="text-align: justify;"><strong>3.2.</strong> <span style="font-weight: 400;">Em caso de desistência, a <strong>COMPRADORA</strong> se compromete a ressarcir a <strong>VENDEDORA</strong> das despesas incorridas até o momento, no percentual de <strong>5% (cinco por cento)</strong> do valor total da compra. A <strong>VENDEDORA</strong> fica autorizada a reter o valor do sinal pago.</span></p>
 
 <p style="text-align: justify;">Santo André, {date_created:format:j \d\e F \d\e Y}</p>
+<table>
+    <tr>
+        <td>
+            <p style="text-align: justify;"><span style="font-weight: 400;"><strong>VENDEDORA</strong></span></p>
+            <img src="<?php echo esc_url( __DIR__ ); ?>/images/alex_sign_580419cd9687fa9619.jpg" width="100" />
+            <p><span style="font-weight: 400;">XK-TRON COMERCIO DE PECAS E ACESSORIOS ELETRONICOS LTDA<br>
+            CNPJ/MF nº 18.966.170/0001-90 - Inscrição Estadual sob o nº 626.528.285.111<br>
+            Nome do Representante: Kun Zhao</span></p>
+        </td>
+        <td>
+        <p style="text-align: justify;"><span style="font-weight: 400;"><strong>COMPRADORA</strong></span></p>
+        <img style="width: 200px;" src="{Assinatura do Comprador:51}" />
+        <p><span style="font-weight: 400;">{Cliente:1}<br>
+        [gravityforms action="conditional" merge_tag="{Física ou Jurídica:2}" condition="is" value="Física"]
+            CPF: {CNPJ:37} -
+        [/gravityforms]  
 
-<p style="text-align: justify;"><span style="font-weight: 400;"><strong>VENDEDORA</strong></span></p>
-<img src="<?php echo esc_url( __DIR__ ); ?>/images/alex_sign_580419cd9687fa9619.jpg" width="100" />
-<p><span style="font-weight: 400;">XK-TRON COMERCIO DE PECAS E ACESSORIOS ELETRONICOS LTDA<br>
-CNPJ/MF nº 18.966.170/0001-90 - Inscrição Estadual sob o nº 626.528.285.111<br>
-Nome do Representante: Kun Zhao</span></p>
+        [gravityforms action="conditional" merge_tag="{Física ou Jurídica:2}" condition="is" value="Jurídica"]
+            CNPJ: {CNPJ:19} -
+        [/gravityforms]  
 
-<p style="text-align: justify;">&nbsp;</p>
+        [gravityforms action="conditional" merge_tag="{Física ou Jurídica:2}" condition="is" value="Física"]
+            RG: {RG:6}
+        [/gravityforms]
 
-<p style="text-align: justify;"><span style="font-weight: 400;"><strong>COMPRADORA</strong></span></p>
-<img style="width: 200px;" src="{Assinatura do Comprador:51}" />
-<p><span style="font-weight: 400;">{Cliente:1}<br>
-[gravityforms action="conditional" merge_tag="{Física ou Jurídica:2}" condition="is" value="Física"]
-	CPF: {CNPJ:37} -
-[/gravityforms]  
-
-[gravityforms action="conditional" merge_tag="{Física ou Jurídica:2}" condition="is" value="Jurídica"]
-	CNPJ: {CNPJ:19} -
-[/gravityforms]  
-
-[gravityforms action="conditional" merge_tag="{Física ou Jurídica:2}" condition="is" value="Física"]
-	RG: {RG:6}
-[/gravityforms]
-
-[gravityforms action="conditional" merge_tag="{Física ou Jurídica:2}" condition="is" value="Jurídica"]
-	Inscrição Estadual: {Inscricao Estadual:6}
-[/gravityforms]  <br>
-Nome do Representante: {Representante Cliente:7}</span></p>
-
+        [gravityforms action="conditional" merge_tag="{Física ou Jurídica:2}" condition="is" value="Jurídica"]
+            Inscrição Estadual: {Inscricao Estadual:6}
+        [/gravityforms]  <br>
+        Nome do Representante: {Representante Cliente:7}</span></p>
+        </td>
+    </tr>
+</table>
 
 <?php
 function extenso($valor=0, $maiusculas=false) {
