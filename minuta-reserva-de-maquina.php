@@ -1,7 +1,7 @@
 <?php
 /**
  * Template Name: AD Minuta para reserva de máquina
- * Version: 0.0.1
+ * Version: 0.0.2
  * Description: Modelo básico de minuta para reserva de máquina
  * Author: Tiago Cordeiro
  * Author URI: https://mulhergorila.com
@@ -63,6 +63,7 @@ MODELO: {Modelo:55} - PEDIDO: {Número do Pedido:21}<br/>
 VALOR TOTAL DO EQUIPAMENTO: {Valor Total do Equipamento:32}<br/>
 VALOR RESERVA (5%) SOBRE O TOTAL: {Valor de Reserva (5% sobre o total):56}<br/>
 DATA PAGAMENTO: {Data Pagamento:57}<br/>
+{Observações do Pedido:58}<br/>
 </span></p>
 
 <p style="text-align: justify;"><strong>2.</strong> <span style="font-weight: 400;"><strong>PRAZO DE ENTREGA</strong></span></p>
